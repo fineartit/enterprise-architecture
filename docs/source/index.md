@@ -11,6 +11,12 @@
 
 contents/practical_guides/1_introduction.md
 contents/practical_guides/2_approach.md
+contents/practical_guides/3_knowledge_import.md
+contents/practical_guides/4_top_planning.md
+contents/practical_guides/5_mechanism_design.md
+contents/practical_guides/6_pilot_verification.md
+contents/practical_guides/7_continuous_operation.md
+contents/practical_guides/8_appendix.md
 ```
 
 ## 扩展阅读

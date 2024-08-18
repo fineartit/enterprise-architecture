@@ -8,7 +8,7 @@
 
 ## 目的
 
-本指南旨在根植于成熟的架构框架和方法论，结合具体实践案例，为企业高层领导者、架构管理者及专业架构师，提供一份**导入企业架构**和**推动架构规模化运作**的实践指引。
+本指南旨在根植于成熟的架构框架和方法论，结合相应实践用例，为企业高层领导者、架构管理者及专业架构师，提供一份**导入企业架构**和**推动架构规模化运作**的实践指引。
 
 ## 范围
 
@@ -20,22 +20,12 @@
 
 ```{mermaid}
 flowchart LR
-    KI(知识导入) --> TP(顶层规划) --> MD(机制设计) --> PV(试点验证) --> CI(持续迭代) 
+    KI(S0 知识导入) --> TP(S1 顶层规划) --> MD(S2 机制设计) --> PV(S3 最小闭环) --> CO(S4 持续运营) 
     style KI fill:#fff,stroke:#000,stroke-width:2px
     style TP fill:#fff,stroke:#000,stroke-width:2px
     style MD fill:#fff,stroke:#000,stroke-width:2px
     style PV fill:#fff,stroke:#000,stroke-width:2px
-    style CI fill:#fff,stroke:#000,stroke-width:2px 
+    style CO fill:#fff,stroke:#000,stroke-width:2px 
 ```
 
 既然是特定的，必要有其局限。在此，也恳请读者能不吝赐教，及时提出宝贵意见和建议。
-
-## 术语
-
-架构
-: **ISO/IEC/IEEE-42010:2011：“架构是系统在其所处环境中的基本概念或属性，体现为它的元素、关系，以及设计和演进的原则（fundamental 
-    concepts or properties of a system in its environment embodied in its elements, relationships,and in the principles 
-    of its design and evolution）”**
-: > *注解：架构的概念主要来源于建筑学，理解架构的一种直观方式是类比与建筑设计。建筑设计师通常会从不同的视角（透视、俯视、垂直...）、
-不同的功能（居住、办公、商业、...），运用绘图元素（线条、投影、比例、尺度、标注...）和规则来描述一座建筑的方方面面，并形成一系列建筑图纸作为指导未来施工的蓝图（Blueprint）。一方面，建筑设计过程涉及的概念（视角、功能...）、元素（绘图、内容...）和关系（位置、比例...）的规范化定义，
-是架构工作的起点；另一方面，运用某种理论、方法和规则来产出一系列建筑设计图纸，并基于实施的反馈持续改进，是架构工作的终点。*
