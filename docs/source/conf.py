@@ -10,7 +10,7 @@ from datetime import date
 project = "Enterprise Architecture"
 copyright = f"{date.today().year}, 深圳市精艺信息技术有限公司"
 author = "Advisor"
-release = "1.0"
+release = f"{date.today().strftime('%Y.%m.%d')}"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
