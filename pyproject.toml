@@ -9,7 +9,6 @@ authors = [{name = "Advisor", email = "fineartit@outlook.com"}]
 readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = [
-    "Development Status :: 4 - Beta",
     "Framework :: Sphinx :: Extension",
     "Intended Audience :: Developers",
     "License :: OSI Approved :: FAIT License",
