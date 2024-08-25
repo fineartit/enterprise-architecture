@@ -51,7 +51,7 @@ language = "zh_CN"
 # html_theme = "alabaster"
 html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
-html_title = ""
+html_title = "企业架构"
 html_theme_options = {
     "home_page_in_toc": True,
     "use_sidenotes": True,
