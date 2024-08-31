@@ -1,12 +1,10 @@
-# 领先实践
+# 企业架构
 
-## 业务架构
-
-面向行业及领域的业务架构领先实践
+## 架构实践
 
 ```{toctree}
 :maxdepth: 1
-:caption: 🛠 制造业
+:caption: 业务架构
 
-leading_practices/business_architecture/warehouse_management.md
+practices/business_architecture/warehouse_management.md
 ```
