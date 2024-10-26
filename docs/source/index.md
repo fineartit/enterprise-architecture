@@ -1,27 +1,25 @@
 # 企业架构
 
-## 领先实践
-
-```{rubric} 业务架构
+```{rubric} 第I部分：理解企业架构
 ```
 
-* [消费电子仓储管理领域](practices/business_architecture/warehouse_management.md)
+* [第1章 企业架构是什么](contents/part1/ch01.md)
+* [第2章 企业架构的价值](contents/part1/ch02.md)
 
 ```{toctree}
 :hidden:
-:caption: 领先实践-业务架构
-practices/business_architecture/warehouse_management.md
+:caption: 第I部分
+contents/part1/ch01.md
+contents/part1/ch02.md
 ```
 
-## 扩展知识
-
-```{rubric} 架构简史
+```{rubric} 附录
 ```
 
-* [被遗忘的IBM BSP](extras/ibm_bsp.md)
+* [附录A：IBM BSP](contents/appendix-a.md)
 
 ```{toctree}
 :hidden:
-:caption: 扩展知识-架构简史
-extras/ibm_bsp.md
+:caption: 附录
+contents/appendix-a.md
 ```

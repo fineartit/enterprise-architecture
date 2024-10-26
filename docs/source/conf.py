@@ -42,6 +42,7 @@ source_suffix = {
 }
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+nb_execution_mode = "cache"
 
 language = "zh_CN"
 
@@ -51,10 +52,10 @@ language = "zh_CN"
 # html_theme = "alabaster"
 html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
-html_title = ""
+html_css_files = ["custom.css"]
+html_title = "Enterprise Architecture"
 html_theme_options = {
-    "home_page_in_toc": True,
-    "use_sidenotes": True,
+    "collapse_navbar": True,
 }
 
 # -- Options for Mermaid output -------------------------------------------------

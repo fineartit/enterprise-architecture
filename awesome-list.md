@@ -1,5 +1,3 @@
-* [MkDoc](https://www.mkdocs.org/)
-* [MkDocs Catalog](https://github.com/mkdocs/catalog?tab=readme-ov-file)
 * [Markdown 指南中文版](https://www.markdown.xyz/basic-syntax/)
 * [Jupyter Book](https://jupyterbook.org/en/stable/intro.html)
 * [Pandoc](https://pandoc.org/)
