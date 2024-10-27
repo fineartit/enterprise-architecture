@@ -1,25 +1,18 @@
 # 企业架构
 
-```{rubric} 第I部分：理解企业架构
+```{rubric} 导论
 ```
 
-* [第1章 企业架构是什么](contents/part1/ch01.md)
-* [第2章 企业架构的价值](contents/part1/ch02.md)
+* [第1章：企业架构是什么](introduction/ch01.md)
+* [第2章：企业架构的价值](introduction/ch02.md)
 
 ```{toctree}
+:caption: 导论
+:maxdepth: 2
 :hidden:
-:caption: 第I部分
-contents/part1/ch01.md
-contents/part1/ch02.md
+introduction/ch01.md
+introduction/ch02.md
 ```
 
-```{rubric} 附录
-```
-
-* [附录A：IBM BSP](contents/appendix-a.md)
-
-```{toctree}
-:hidden:
-:caption: 附录
-contents/appendix-a.md
+```{rubric} 简史
 ```
