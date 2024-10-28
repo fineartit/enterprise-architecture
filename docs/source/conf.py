@@ -52,7 +52,7 @@ language = "zh_CN"
 # html_theme = "alabaster"
 html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
-html_title = "Enterprise Architecture"
+html_title = "企业架构"
 html_theme_options = {
     "collapse_navbar": True,
     "show_toc_level": 2,
