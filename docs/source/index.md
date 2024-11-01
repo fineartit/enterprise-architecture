@@ -1,4 +1,4 @@
-# Enterprise Architecture
+# 企业架构
 
 ```{rubric} 导论
 ```
